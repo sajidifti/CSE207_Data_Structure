@@ -1,0 +1,1 @@
+Return position of the specified element in the list
